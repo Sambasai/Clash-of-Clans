@@ -1,4 +1,4 @@
-<!-- # Name here -->
+# Clash of Clans
 
 A terminal-based version of Clash Of Clans using Python and OOPs principles. Here's a glimpse of the gameplay:
 
