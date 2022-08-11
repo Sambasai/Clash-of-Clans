@@ -30,6 +30,7 @@ Spawning at ``spawn point 3``:
 <kbd>p</kbd> - Spawns a balloon <br>
 
 Swawning hero:
+
 <kbd>1</kbd> - Spawns King <br>
 <kbd>2</kbd> - Spawns Queen <br>
 
