@@ -2,9 +2,9 @@
 
 A terminal-based version of Clash Of Clans using Python and OOPs principles. Here's a glimpse of the gameplay:
 
-<!-- <p align="center">
-    <img src="gameplay.gif" width="512"/>
-</p> -->
+<p align="center">
+    <img src="coc.gif" width="512"/>
+</p>
 
 
 The game starts with the user selecting which hero he/she wants to use (King or Queen)
